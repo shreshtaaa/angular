@@ -1,0 +1,12 @@
+.extraClass{
+    background: black;
+    color: wheat;
+}
+
+h2, h4{
+    text-align: center;
+}
+
+li{
+    margin-left: 500px;
+}
